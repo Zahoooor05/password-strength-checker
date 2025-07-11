@@ -32,4 +32,10 @@ This is a simple web app that checks the strength of a password as you type, bui
 
 ├── script.js
 
+├── weakpass.png
+
+├── moderatepass.png
+
+├── Strongpass.png
+
 └── README.md
