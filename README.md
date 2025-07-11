@@ -14,9 +14,8 @@ This is a simple web app that checks the strength of a password as you type, bui
 ## 📸 Screenshot
 
 ![Screenshot](weakpass.png) 
-![Screenshot](Strongpass.png) 
 ![Screenshot](moderatepass.png) 
-
+![Screenshot](strongpass.png) 
 
 ## 🛠 How to Use
 
